@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DaM",
+    "slug": "DaM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
